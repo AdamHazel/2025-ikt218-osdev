@@ -1,3 +1,10 @@
+This was a project where, having received a basic starter codebase, I created my own i386 operating system called "Should Have Chosen Windows". The project's aim was to be better acquainted with key modules of a basic operative system. 
+
+My own reflections:
+I worked in a systematic way to iteratively develop the operating system. A weaknesses was trying to find the balance between deeply understanding concepts, and producing code. I think too much time was used in trying to understand things which, in the bigger picture, was not fundamental. I am very pleased with the keyboard buffer as a means of quickly handling keyboard interrupts. 
+
+---
+
 # IKT218 - Operating System Development Course Repository
 
 Welcome to the University of Agder's IKT218 course repository. This platform is crucial for students involved in our Operating System Development lab assignments. At the semester's end, students will add their operating system projects to this repository, creating a diverse showcase of their work.
